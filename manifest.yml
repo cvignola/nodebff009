@@ -2,7 +2,7 @@
 applications:
 - disk_quota: 1024M
   name: nodebff009
-  domain: stage1.mybluemix.net
+  domain: mybluemix.net
   host: nodebff009
   memory: 256M
   instances: 1
